@@ -1,1 +1,1 @@
-<img src="R/Rplot1.png" alt="plotgraph1" width="650"/>
+<img src="Rplot1.png" alt="plotgraph1" width="650"/>
