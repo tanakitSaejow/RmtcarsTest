@@ -1,1 +1,1 @@
-![Test Image 1](Rplot1.png)
+<img src="R/Rplot1.png" alt="plotgraph1" width="650"/>
